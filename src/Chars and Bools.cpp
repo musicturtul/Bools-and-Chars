@@ -33,7 +33,10 @@ int main() {
 	int bananas = 23;
 	int oranges = 24;
 
+
 	string iceCreamFlavors = "Vanilla, Chocolate, and Strawberry";
+
+	string steakPreference = "medium rare";
 
 	cout << cValue3 << endl;
 
@@ -51,6 +54,9 @@ int main() {
 	char cValue4 = 224;
 	cout << cValue4 << endl;
 	cout << "I have " << oranges << " oranges" << endl;
+
 	cout << "I love " << iceCreamFlavors << endl;
+	cout << "My favorite steaks are always " << steakPreference <<endl;
+
 	return 0;
 }
