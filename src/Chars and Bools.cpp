@@ -30,6 +30,7 @@ int main() {
 	char cValue3 = 119;
 	int apples = 22;
 	int bananas = 23;
+	int oranges = 24;
 
 	cout << cValue3 << endl;
 
