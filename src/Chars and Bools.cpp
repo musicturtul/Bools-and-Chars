@@ -48,5 +48,6 @@ int main() {
 // they do not display properly
 	char cValue4 = 224;
 	cout << cValue4 << endl;
+	cout << "I have " << oranges << " oranges" << endl;
 	return 0;
 }
