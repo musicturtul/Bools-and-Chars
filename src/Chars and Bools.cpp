@@ -28,6 +28,8 @@ int main() {
 	cout << (int)cValue2 << endl;
 
 	char cValue3 = 119;
+	int apples = 22;
+	int bananas = 23;
 
 	cout << cValue3 << endl;
 
