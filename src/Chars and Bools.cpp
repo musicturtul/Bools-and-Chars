@@ -33,6 +33,8 @@ int main() {
 	int bananas = 23;
 	int oranges = 24;
 
+	string steakPreference = "medium rare";
+
 	cout << cValue3 << endl;
 
 //char is only 1 byte of information possible, so 256 possibilities
@@ -49,5 +51,6 @@ int main() {
 	char cValue4 = 224;
 	cout << cValue4 << endl;
 	cout << "I have " << oranges << " oranges" << endl;
+	cout << "My favorite steaks are always " << steakPreference <<endl;
 	return 0;
 }
