@@ -11,6 +11,7 @@ using namespace std;
 
 int main() {
 //bool values are either true or false, 1 is true and 0 is false
+	cout << "I love programming!" << endl;
 	bool bValue = false;
 	cout << bValue << endl;
 
